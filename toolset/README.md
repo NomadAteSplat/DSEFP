@@ -22,7 +22,7 @@
     - [Introduction to Git & Github RG](github)
   - [DevOps](devops)
   - Virtualization - Containerization
-    - [Docker](#docker)
+    - [Docker](docker)
   - Collaboration tools
     - [Slack](#slack)
     - [Zoom](#zoom)
@@ -64,23 +64,23 @@ https://www.maketecheasier.com/free-linux-productivity-apps-you-havent-heard-of/
 ##  Integrated Development Environments (IDE)
 ##  Anaconda
 
-Jupyter notebook, JupyterHub, JupyterLab http://jupyter.org/
+[Jupyter notebook, JupyterHub, JupyterLab](http://jupyter.org/)
 
-https://nbviewer.jupyter.org/
+[Nbviewer](https://nbviewer.jupyter.org/)
 
-Apache Zeppelin notebook https://zeppelin.apache.org/
+[Apache Zeppelin notebook](https://zeppelin.apache.org/)
 
 ##  PyCharm
-PyCharm https://www.jetbrains.com/pycharm/
+[PyCharm](https://www.jetbrains.com/pycharm/)
 
 ##  Atom
-Atom https://atom.io/
+[Atom](https://atom.io/)
 
 ##  Vim
-VIM https://www.vim.org/
+[VIM](https://www.vim.org/)
 
 ##  RStudio
-RStudio https://www.rstudio.com/
+[RStudio](https://www.rstudio.com/)
 
 ## Bash
 ###  Bash Scripting / Command Line is a way of interacting with your computer  operating system using text-based commands.
@@ -107,7 +107,7 @@ https://packaging.python.org/guides/installing-using-pip-and-virtualenv/
 
 
 ## Conda
-https://conda.io/docs/
+[Conda](https://conda.io/docs/)
 
 ## Version control and repository systems
 ## Git
@@ -134,39 +134,7 @@ https://conda.io/docs/
 
 ##  Docker
 
-Learn Docker in 12 Minutes https://www.youtube.com/watch?v=YFl2mCHdv24
 
-Docker 101: Introduction to Docker https://www.youtube.com/watch?v=V9IJj4MzZBc
-
-Data Science Workflows using Docker Containers https://www.youtube.com/watch?v=oO8n3y23b6M
-
-Docker for Data Scientists, Strata 2016, Michelangelo D'Agostino https://www.youtube.com/watch?v=GOW6yQpxOIg
-
-Distributed Data Science, DevOps, and Docker BlueData https://www.youtube.com/watch?v=Un2xzJ_JLDE
-
-*  https://dzone.com/articles/consider-to-introduce-docker-to-your-data-science
-*  https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5
-*  http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html
-*  https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
-
-
-Andreas Dewes - Analyzing Data with Python & Docker https://www.youtube.com/watch?v=cK_oNI6VUHU
-
-
-Python Day 2017: Using Django, Docker and Scikit-learn to bootstrap your Machine Learning Project  https://www.youtube.com/watch?v=SQAwzW0iQ6o
-
-
-
-Docker as a replacement for virtualenv  https://www.youtube.com/watch?v=ETL-_W1W8gY
-
-
-Building a Local Dev Environment with Docker https://www.youtube.com/watch?v=FiaLKwdv9TI
-
-
-## Docker Development
-Using Docker with a Flask Application - Docker Introduction (1/10)  https://www.youtube.com/watch?v=jcZryYit8Ms&list=PLaDyYdZGRivhrKi56npbyFX2LTLs_--gq
-Building Python Applications with Docker (PyTexas 2017) https://www.youtube.com/watch?v=DBL3k7A0-eY
-Python Flask application in a Docker container (Mac OS X) https://www.youtube.com/watch?v=Dukoq8yTqqI
 
 ##  Collaboration tools
 
