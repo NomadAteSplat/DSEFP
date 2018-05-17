@@ -60,8 +60,8 @@ https://monashbioinformaticsplatform.github.io/r-more/topics/tidyverse.html
 
 [Distributed Data Science, DevOps, and Docker BlueData](https://www.youtube.com/watch?v=Un2xzJ_JLDE)
 
-[Python Day 2017: Using Django, Docker and Scikit-learn to bootstrap your Machine Learning Project]  (https://www.youtube.com/watch?v=SQAwzW0iQ6o)
+[Python Day 2017: Using Django, Docker and Scikit-learn to bootstrap your Machine Learning Project](https://www.youtube.com/watch?v=SQAwzW0iQ6o)
 
 ## Docker Development
-[Using Docker with a Flask Application - Docker Introduction (1/10)] (https://www.youtube.com/watch?v=jcZryYit8Ms&list=PLaDyYdZGRivhrKi56npbyFX2LTLs_--gq)
-[Building Python Applications with Docker (PyTexas 2017)](https://www.youtube.com/watch?v=DBL3k7A0-eY)
+
+[Building Python Applications with Docker](https://www.youtube.com/watch?v=DBL3k7A0-eY)
