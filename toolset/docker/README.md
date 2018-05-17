@@ -35,7 +35,7 @@ https://docs.docker.com/get-started/
 
 http://ropenscilabs.github.io/r-docker-tutorial/  https://github.com/ropenscilabs/r-docker-tutorial
 https://www.rocker-project.org/
-docker run --rm -p 8787:8787 rocker/rstudio
+
 
 https://monashbioinformaticsplatform.github.io/r-more/topics/tidyverse.html
 
