@@ -94,13 +94,3 @@ Kaggle 5 day Data Cleaning Challenge - Lab_Notebooks_Templates.zip
 
 
 ## Scala
-
-
-
-
-
-
-
-
-
-earningbook.org/
