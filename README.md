@@ -8,10 +8,10 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 * [DSE toolset](toolset)
 * [Programming](programming)
-* [Math Stats Probability Algorithms](MathStatsProbability)
+* [Cloud Computing](CloudComputing)
+* [Math Stats Probability](MathStatsProbability)
 * [Data Analysis](DataAnalysis)
 * [Data Visualisation & Storytelling](DataVisualisation)
-* [Cloud Computing](CloudComputing)
 * [Data Management Systems](DataManagementSystems)
 * [Big Data Analytics](BigDataAnalytics)
 * [Data Engineering](DataEngineering)

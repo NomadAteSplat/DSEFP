@@ -1,2 +1,1 @@
-Instructions for Practice Project
-========================================
+## DevOps

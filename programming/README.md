@@ -21,7 +21,7 @@
 
 ## Python
 
-[Python is powerful... and fast; plays well with others; runs everywhere; is friendly & easy to learn; is Open source.](https://www.python.org/about/)
+[Python is powerful; plays well with others; runs everywhere; is friendly & easy to learn; is Open source.](https://www.python.org/about/)
 
 ## Python Links
 
@@ -103,20 +103,4 @@ Kaggle 5 day Data Cleaning Challenge - Lab_Notebooks_Templates.zip
 
 
 
-
-
-**ResourcesDSportals:**
-https://medium.com/
-https://towardsdatascience.com/machine-learning/home
-https://www.datasciencecentral.com/
-https://www.kdnuggets.com/
-
-
-
-**EducationalResources:**
-https://www.coursera.org/
-https://eu.udacity.com/
-https://www.datacamp.com/
-https://cloudacademy.com
-https://www.edx.org/
-http://www.deeplearningbook.org/
+earningbook.org/
