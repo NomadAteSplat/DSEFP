@@ -7,7 +7,7 @@
   - [Pandas](#pandas)
   - [Introduction to Numpy](#numpy)
   - [Data Wrangling with Pandas](#data-wrangling-pandas)
-  - [Data Acquisition with Python](#data-acquisition)
+  - [Getting data with Python](GettingDataPython.ipynb)
   - [Python Development](#python-development)
   - [Python Resources](#python-resources)
   - [R](#r)
